@@ -1,0 +1,20 @@
+C:\Documents and Settings\yduser\桌面\連連看\連連看\bin\Debug\連連看.exe
+C:\Documents and Settings\yduser\桌面\連連看\連連看\bin\Debug\連連看.pdb
+C:\Documents and Settings\yduser\桌面\連連看\連連看\bin\Debug\連連看.xml
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\連連看.exe
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\連連看.xml
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\連連看.pdb
+C:\Documents and Settings\yduser\桌面\連連看\連連看\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\User\Desktop\連連看\連連看\obj\x86\Debug\連連看.exe
+D:\Users\User\Desktop\連連看\連連看\obj\x86\Debug\連連看.xml
+D:\Users\User\Desktop\連連看\連連看\obj\x86\Debug\連連看.pdb
+D:\Users\User\Desktop\連連看\連連看\bin\Debug\連連看.exe
+D:\Users\User\Desktop\連連看\連連看\bin\Debug\連連看.pdb
+D:\Users\User\Desktop\連連看\連連看\bin\Debug\連連看.xml
+D:\Users\User\Desktop\連連看\連連看\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\User\Desktop\連連看\連連看\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\User\Desktop\連連看\連連看\obj\x86\Debug\連連看.vbproj.GenerateResource.Cache
